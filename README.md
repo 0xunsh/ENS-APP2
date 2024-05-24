@@ -1,5 +1,5 @@
 The live project has been deployed on vercel and can be accessed through below link
-https://vercel.com/anshs-projects-65ed0222/ens-app-2-1/3vFF5Lzbbg4ZyUEAi896YjiPnYgf
+(https://ens-app-2-1-49l0x11qi-anshs-projects-65ed0222.vercel.app/)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
